@@ -1,2 +1,23 @@
 # Signals-and-Systems
 信號與系統
+>HW1
+>>myconv
+>>
+>>report
+>>
+>HW2
+>>fftsinc
+>>
+>>report
+>>
+>HW3
+>>mybutter1
+>>
+>>mybutter2
+>>
+>>report
+>>
+>HW4
+>>myztran
+>>
+>>report
